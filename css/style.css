@@ -1,5 +1,5 @@
 body {
-	background-color: #001f29;
+	background-color: #000000;
 }
 
 div, canvas {
@@ -17,7 +17,14 @@ div, canvas {
 	transition: opacity 1s linear;
 }
 
+#main {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+}
+
 #gui {
+	background-color: #FFFFFF;
 	z-index:3;
 }
 

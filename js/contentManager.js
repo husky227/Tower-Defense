@@ -1,5 +1,5 @@
 /*
- * loading assets
+ * contentManager handles loading assets
  */
 var contentManager = function(){
 	
